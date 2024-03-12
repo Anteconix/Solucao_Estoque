@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{38C2C494-162F-4FB7-9EA3-FA3A87DC270C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste", "Teste\Teste.csproj", "{60A1B3C8-75C0-4007-8395-D9B88065F090}"
+	ProjectSection(ProjectDependencies) = postProject
+		{38C2C494-162F-4FB7-9EA3-FA3A87DC270C} = {38C2C494-162F-4FB7-9EA3-FA3A87DC270C}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
