@@ -100,3 +100,4 @@ C:\Users\carlos04.silva\Desktop\Codes\Estoque\Teste\obj\Debug\net7.0\refint\Test
 C:\Users\carlos04.silva\Desktop\Codes\Estoque\Teste\obj\Debug\net7.0\Teste.pdb
 C:\Users\carlos04.silva\Desktop\Codes\Estoque\Teste\obj\Debug\net7.0\Teste.genruntimeconfig.cache
 C:\Users\carlos04.silva\Desktop\Codes\Estoque\Teste\obj\Debug\net7.0\ref\Teste.dll
+C:\Users\carlos04.silva\Desktop\Codes\Estoque\Teste\bin\Debug\net7.0\ExpectedObjects.dll

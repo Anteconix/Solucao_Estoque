@@ -9,6 +9,7 @@
       "Teste/1.0.0": {
         "dependencies": {
           "Dominio": "1.0.0",
+          "ExpectedObjects": "3.5.4",
           "Microsoft.NET.Test.Sdk": "17.5.0",
           "coverlet.collector": "3.2.0",
           "xunit": "2.4.2",
@@ -19,6 +20,18 @@
         }
       },
       "coverlet.collector/3.2.0": {},
+      "ExpectedObjects/3.5.4": {
+        "dependencies": {
+          "NETStandard.Library": "1.6.1",
+          "System.Reflection.TypeExtensions": "4.3.0"
+        },
+        "runtime": {
+          "lib/netstandard1.3/ExpectedObjects.dll": {
+            "assemblyVersion": "3.5.4.0",
+            "fileVersion": "3.5.4.0"
+          }
+        }
+      },
       "Microsoft.CodeCoverage/17.5.0": {
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll": {
@@ -1040,6 +1053,13 @@
       "sha512": "sha512-xjY8xBigSeWIYs4I7DgUHqSNoGqnHi7Fv7/7RZD02rvZyG3hlsjnQKiVKVWKgr9kRKgmV+dEfu8KScvysiC0Wg==",
       "path": "coverlet.collector/3.2.0",
       "hashPath": "coverlet.collector.3.2.0.nupkg.sha512"
+    },
+    "ExpectedObjects/3.5.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7urJ3ZpCWIegl2JfDbmyIR+E1Wu/4sG9oJPYVBxByBnbVavFcOHbWTlDeWMJQAYu8ZgrO0OG8UeiCnsWbxzYlA==",
+      "path": "expectedobjects/3.5.4",
+      "hashPath": "expectedobjects.3.5.4.nupkg.sha512"
     },
     "Microsoft.CodeCoverage/17.5.0": {
       "type": "package",
